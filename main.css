@@ -1,0 +1,73 @@
+body{
+	background-color: ghostwhite;
+	font-family: "EB Garamond", serif;
+	max-width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 10px;
+	padding-right:10px;
+
+
+
+.page-header h3{
+	background-color: black;
+	left-padding: 4px;
+	margin-top: 0px;
+	font-size: 30px;
+	color: white;
+	padding-bottom: 4px;
+	text-align: center;
+}
+
+
+
+.story{
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 10px;
+	padding-right:10px;
+}
+
+.photo-caption{
+	color: #666666;
+	font-size: 14px;
+	margin-top: 0px;
+	line-height: 18px;
+	font-family: "Franklin Light";
+}
+img{
+	max-width: 90%;
+}
+
+.chart-1{
+	display: grid;
+	grid-template-columns: 1fr, 1fr;
+
+}
+
+.story a:hover{
+	color: darkgrey;
+	text-decoration: none;
+}
+
+
+}
+
+
+
+
+.chart-2{
+	padding: 20px;
+	max-width: 800px;
+	border: black 2px solid;
+}
+
+
+
+} 
+
